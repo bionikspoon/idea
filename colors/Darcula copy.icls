@@ -1,4 +1,4 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Default">
+<scheme name="Darcula copy" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -50,7 +50,6 @@
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -73,7 +72,6 @@
         <option name="BACKGROUND" value="3a2323" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="7eaef1" />
@@ -94,7 +92,6 @@
         <option name="FOREGROUND" value="33cccc" />
       </value>
     </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
@@ -208,7 +205,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="769aa5" />
@@ -239,7 +235,6 @@
         <option name="FOREGROUND" value="77b767" />
       </value>
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -273,7 +268,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -289,7 +283,6 @@
         <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -307,8 +300,6 @@
         <option name="FOREGROUND" value="6a8759" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -362,7 +353,6 @@
         <option name="BACKGROUND" value="5e5339" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="bc3f3c" />
@@ -470,7 +460,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="364135" />
@@ -492,17 +481,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="485848" />
@@ -535,6 +519,7 @@
     <option name="MAKO.SUBSTITUTION">
       <value>
         <option name="BACKGROUND" value="232364" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -559,11 +544,13 @@
     <option name="OC.CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="769aa5" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.CPP_KEYWORD">
@@ -574,16 +561,19 @@
     <option name="OC.DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="80b000" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="9373a5" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.IVAR">
       <value>
         <option name="FOREGROUND" value="9373a5" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.KEYWORD">
@@ -594,16 +584,24 @@
     <option name="OC.LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="OC.MACRO_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.NUMBER">
@@ -614,6 +612,7 @@
     <option name="OC.PROPERTY">
       <value>
         <option name="FOREGROUND" value="cdbcac" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.SELFSUPERTHIS">
@@ -629,11 +628,13 @@
     <option name="OC.STRUCT_FIELD">
       <value>
         <option name="FOREGROUND" value="9373a5" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC.TYPEDEF">
       <value>
         <option name="FOREGROUND" value="c7c8f5" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="OC_FORMAT_TOKEN">
@@ -644,6 +645,7 @@
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
