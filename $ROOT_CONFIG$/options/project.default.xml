@@ -1,0 +1,349 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject version="4">
+      <component name="Behat">
+        <behat_settings>
+          <BehatSettings />
+        </behat_settings>
+      </component>
+      <component name="ComposerSettings">
+        <pharPath>$USER_HOME$/bin/composer</pharPath>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <option name="myLocal" value="true" />
+          <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="AssignmentToFunctionParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="BlockStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="BreakStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ConfusingFloatingPointLiteralJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ConfusingPlusesOrMinusesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ContinueStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ContinueStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="CyclomaticComplexityJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_limit" value="10" />
+          </inspection_tool>
+          <inspection_tool class="DebuggerStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DivideByZeroJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DocumentWriteJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DuplicateConditionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DynamicallyGeneratedCodeJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="EmptyCatchBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="EmptyFinallyBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="EmptyTryBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="EqualityComparisonWithCoercionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="Eslint" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="ForLoopReplaceableByWhileJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_ignoreLoopsWithoutConditions" value="false" />
+          </inspection_tool>
+          <inspection_tool class="ForLoopThatDoesntUseLoopVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_regex" value="[a-z][A-Za-z]*" />
+            <option name="m_minLength" value="4" />
+            <option name="m_maxLength" value="32" />
+          </inspection_tool>
+          <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="GjsLint" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="IfStatementWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="IfStatementWithTooManyBranchesJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_limit" value="3" />
+          </inspection_tool>
+          <inspection_tool class="IncrementDecrementResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="JSHint" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSLint" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="JSMethodCanBeStatic" enabled="true" level="INFO" enabled_by_default="true" />
+          <inspection_tool class="Jscs" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_regex" value="[a-z][A-Za-z]*" />
+            <option name="m_minLength" value="1" />
+            <option name="m_maxLength" value="32" />
+          </inspection_tool>
+          <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NestedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NestedFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_includeAnonymousFunctions" value="false" />
+          </inspection_tool>
+          <inspection_tool class="NestedSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NestingDepthJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_limit" value="5" />
+          </inspection_tool>
+          <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NonShortCircuitBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ObjectAllocationIgnoredJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="OverlyComplexArithmeticExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_limit" value="6" />
+          </inspection_tool>
+          <inspection_tool class="OverlyComplexBooleanExpressionJS" enabled="true" level="INFO" enabled_by_default="true">
+            <option name="m_limit" value="3" />
+          </inspection_tool>
+          <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_regex" value="[a-z][A-Za-z]*" />
+            <option name="m_minLength" value="1" />
+            <option name="m_maxLength" value="32" />
+          </inspection_tool>
+          <inspection_tool class="ParametersPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_limit" value="5" />
+          </inspection_tool>
+          <inspection_tool class="PlatformDetectionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ReuseOfLocalVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="StatementsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_limit" value="30" />
+          </inspection_tool>
+          <inspection_tool class="StringLiteralBreaksHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="TailRecursionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ThreeNegationsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="UnterminatedStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+          </inspection_tool>
+          <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_ignoreCatchBlocksWithComments" value="false" />
+          </inspection_tool>
+          <inspection_tool class="VoidExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="XHTMLIncompatabilitiesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+        </profile>
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="JSHintConfiguration" version="2.7.0" use-config-file="true">
+        <option asi="false" />
+        <option bitwise="true" />
+        <option boss="false" />
+        <option browser="true" />
+        <option browserify="false" />
+        <option camelcase="false" />
+        <option couch="false" />
+        <option curly="true" />
+        <option debug="false" />
+        <option devel="false" />
+        <option dojo="false" />
+        <option elision="false" />
+        <option enforceall="false" />
+        <option eqeqeq="true" />
+        <option eqnull="false" />
+        <option es3="false" />
+        <option es5="false" />
+        <option esnext="false" />
+        <option evil="false" />
+        <option expr="false" />
+        <option forin="true" />
+        <option freeze="false" />
+        <option funcscope="false" />
+        <option futurehostile="false" />
+        <option gcl="false" />
+        <option globalstrict="false" />
+        <option immed="false" />
+        <option iterator="false" />
+        <option jasmine="false" />
+        <option jquery="false" />
+        <option lastsemic="false" />
+        <option latedef="false" />
+        <option laxbreak="false" />
+        <option laxcomma="false" />
+        <option loopfunc="false" />
+        <option maxerr="50" />
+        <option mocha="false" />
+        <option mootools="false" />
+        <option moz="false" />
+        <option multistr="false" />
+        <option newcap="false" />
+        <option noarg="true" />
+        <option nocomma="false" />
+        <option node="false" />
+        <option noempty="true" />
+        <option nomen="false" />
+        <option nonbsp="false" />
+        <option nonew="true" />
+        <option nonstandard="false" />
+        <option notypeof="false" />
+        <option noyield="false" />
+        <option onevar="false" />
+        <option passfail="false" />
+        <option phantom="false" />
+        <option plusplus="false" />
+        <option proto="false" />
+        <option prototypejs="false" />
+        <option qunit="false" />
+        <option quotmark="false" />
+        <option rhino="false" />
+        <option scripturl="false" />
+        <option shadow="false" />
+        <option shelljs="false" />
+        <option singleGroups="false" />
+        <option smarttabs="false" />
+        <option strict="true" />
+        <option sub="false" />
+        <option supernew="false" />
+        <option trailing="false" />
+        <option typed="false" />
+        <option undef="true" />
+        <option unused="false" />
+        <option validthis="false" />
+        <option white="false" />
+        <option withstmt="false" />
+        <option worker="false" />
+        <option wsh="false" />
+        <option yui="false" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path>/usr/local/bin/bower</exe-path>
+        <config-path />
+      </component>
+      <component name="JscsConfiguration" jscs-preset="airbnb" />
+      <component name="MongoConfiguration">
+        <option name="shellPath" value="/usr/bin/mongo" />
+      </component>
+      <component name="NamedScopeManager">
+        <order />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="5.6.0" />
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="manu" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>File Watchers</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="Project Default (copy)">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="manu@msp">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SpellCheckingInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="2" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectRootManager" version="2" />
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="File.Encoding" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="js.eslint.nodeInterpreter" value="/usr/local/bin/node" />
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="JavaScriptLanguageLevel" value="ES5" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="settings.editor.selected.configurable" value="File.Encoding" />
+        <property name="last_opened_file_path" value="$USER_HOME$/.npm-global/lib/node_modules/typescript/bin" />
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="RTProjectComponent">
+        <option name="nodeInterpreter" value="" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="typeScriptServiceDirectory" value="$USER_HOME$/.npm-global/lib/node_modules/typescript/bin" />
+        <option name="versionType" value="SERVICE_DIRECTORY" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <last-edited>Source</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
