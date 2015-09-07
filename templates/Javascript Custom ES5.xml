@@ -1,0 +1,10 @@
+<templateSet group="Javascript Custom ES5">
+  <template name="imp" value="var $module$ = require('$module$');&#10;$END$" description="Require module" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="module" expression="jsSuggestIndexName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

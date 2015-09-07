@@ -2,6 +2,13 @@
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -15,6 +22,7 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="QuickChangeScheme" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -33,4 +41,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Vcs.Push" />
 </keymap>
