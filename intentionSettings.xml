@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Convert from variadic to normal parameter(s)" />
+  </component>
+</application>

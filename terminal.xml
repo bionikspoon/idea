@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="/bin/bash --rcfile ~/.idearc" />
+    <option name="myOverrideIdeShortcuts" value="false" />
+  </component>
+</application>

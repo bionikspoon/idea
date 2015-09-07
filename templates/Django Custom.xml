@@ -1,0 +1,10 @@
+<templateSet group="Django Custom">
+  <template name="static" value="{% static '$SELECTION$$STATIC$' %}$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="STATIC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="Django" value="true" />
+    </context>
+  </template>
+</templateSet>

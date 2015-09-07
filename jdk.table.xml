@@ -1,0 +1,429 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/py27" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/py27/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py27/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py27/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py27/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py27/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/533883948" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/json_config" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/json_config/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/code/json_config" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/json_config/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/json_config/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/json_config/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/json_config/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1420731469" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.2 virtualenv at ~/.virtualenvs/py34" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/py34/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-146767216" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="PyPy 2.3.1 [Python 2.7.6] virtualenv at ~/.virtualenvs/pypy" />
+      <type value="Python SDK" />
+      <version value="PyPy 2.3.1 [Python 2.7.6]" />
+      <homePath value="$USER_HOME$/.virtualenvs/pypy/bin/pypy" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pypy/lib_pypy" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pypy/lib-python/2.7" />
+            <root type="simple" url="file:///usr/lib/pypy/lib_pypy" />
+            <root type="simple" url="file:///usr/lib/pypy/lib-python/2.7" />
+            <root type="simple" url="file:///usr/lib/pypy/lib-python/2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib/pypy/lib-python/2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pypy/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1949171234" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/hangman" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/hangman/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hangman/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hangman/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hangman/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hangman/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1687536548" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/python_hangman" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.2 virtualenv at ~/.virtualenvs/py34_hangman" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/py34_hangman/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34_hangman/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34_hangman/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34_hangman/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py34_hangman/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1490637945" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/python_hangman" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.2.6 virtualenv at ~/.virtualenvs/py32" />
+      <type value="Python SDK" />
+      <version value="Python 3.2.6" />
+      <homePath value="$USER_HOME$/.virtualenvs/py32/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py32/lib/python3.2" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py32/lib/python3.2/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.2" />
+            <root type="simple" url="file:///usr/lib/python3.2/plat-linux2" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/py32/lib/python3.2/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-404932654" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/ebay" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/ebay/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ebay/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ebay/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ebay/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ebay/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1101884859" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/ebay" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.6.9 virtualenv at ~/.virtualenvs/ebay" />
+      <type value="Python SDK" />
+      <version value="Python 2.6.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/ebay/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ebay/lib/python2.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ebay/lib/python2.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.6" />
+            <root type="simple" url="file:///usr/lib/python2.6/plat-linux2" />
+            <root type="simple" url="file:///usr/lib/python2.6/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/ebay/lib/python2.6/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1101884859" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/ebay" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/cache" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/cache/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cache/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cache/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cache/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cache/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1073149071" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.virtualenvs/shopcurbside" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/shopcurbside/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/shopcurbside/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/shopcurbside/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/shopcurbside/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/shopcurbside/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/71388459" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/shopcurbside" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/.virtualenvs/flask" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/flask/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/flask/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/flask/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/flask/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/flask/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/2092017849" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.virtualenvs/interview" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/interview/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/interview/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/interview/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/interview/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/interview/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1606309808" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages/pip-6.0.8-py2.7.egg" />
+            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/pyOpenSSL-0.14-py2.7.egg!/" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gst-0.10" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+            <root type="simple" url="file:///usr/lib/pymodules/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1247972723" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.virtualenvs/django" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/django/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/720590364" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/.virtualenvs/annotation_tool" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/annotation_tool/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1796835932" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/annotation_tool" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/.virtualenvs/annotation_tool " />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/annotation_tool/bin/python3.4" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/annotation_tool/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1361789675" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/annotation-tool" />
+    </jdk>
+  </component>
+</application>

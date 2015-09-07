@@ -1,0 +1,16 @@
+<templateSet group="Django">
+  <template name="url" value="{% url '$VIEW$' $PARAM$ %}" description="{% url %}" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEW" expression="djangoTemplateTags()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="djangoVariable()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="Django" value="true" />
+    </context>
+  </template>
+  <template name="block" value="{% block $BLOCK$ %}&#10;    {{ block.super }}$END$&#10;{% endblock $_BLOCK$ %}" description="{% block %} / {% endblock %}" toReformat="false" toShortenFQNames="true">
+    <variable name="BLOCK" expression="djangoBlock()" defaultValue="" alwaysStopAt="true" />
+    <variable name="_BLOCK" expression="BLOCK" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>

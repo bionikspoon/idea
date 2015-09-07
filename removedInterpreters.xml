@@ -1,0 +1,18 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="$USER_HOME$/.virtualenvs/annotation-tool/bin/python" />
+        <option value="$USER_HOME$/.virtualenvs/annotation-tool/bin/python3.4" />
+        <option value="$USER_HOME$/.virtualenvs/annotation_tool/bin/python" />
+        <option value="$USER_HOME$/.virtualenvs/pubmed/bin/python3.4" />
+        <option value="$USER_HOME$/.virtualenvs/sphinx/bin/python2.7" />
+      </set>
+    </option>
+    <option name="ADDED_SDKS">
+      <set>
+        <option value="/usr/bin/pypy" />
+      </set>
+    </option>
+  </component>
+</application>
