@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Check RegExp" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+  </component>
+</application>
