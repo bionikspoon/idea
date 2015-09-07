@@ -1,0 +1,21 @@
+<keymap version="1" name="manu@msp" parent="$default">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="control QUOTE" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="END" />
+    <keyboard-shortcut first-keystroke="control SEMICOLON" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift control N" />
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt P" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="control COMMA" />
+  </action>
+</keymap>
