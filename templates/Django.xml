@@ -5,7 +5,6 @@
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
-      <option name="Django" value="true" />
     </context>
   </template>
   <template name="block" value="{% block $BLOCK$ %}&#10;    {{ block.super }}$END$&#10;{% endblock $_BLOCK$ %}" description="{% block %} / {% endblock %}" toReformat="false" toShortenFQNames="true">
