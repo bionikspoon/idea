@@ -1,0 +1,6 @@
+<application>
+  <component name="XmlEditorOptions">
+    <option name="breadcrumbsEnabled" value="false" />
+    <option name="tagTreeHighlightingOpacity" value="20" />
+  </component>
+</application>
