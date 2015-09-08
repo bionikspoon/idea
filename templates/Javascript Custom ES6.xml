@@ -1,8 +1,7 @@
 <templateSet group="Javascript Custom ES6">
-  <template name="imp" value="import $MODULE$ from '$LOCATION$$PACKAGE$';" toReformat="false" toShortenFQNames="true">
-    <variable name="LOCATION" expression="fileNameWithoutExtension()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+  <template name="imp" value="import $MODULE$ from '$PACKAGE$';" toReformat="false" toShortenFQNames="true">
     <variable name="PACKAGE" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
-    <variable name="MODULE" expression="PACKAGE" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE" expression="capitalize(PACKAGE)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />

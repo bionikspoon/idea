@@ -11,9 +11,6 @@
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_ON_TAG" value=":on" />
   <option name="FORMATTER_OFF_TAG" value=":off" />
-  <JSCodeStyleSettings>
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
-  </JSCodeStyleSettings>
   <JSON>
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
@@ -49,6 +46,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="80" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
