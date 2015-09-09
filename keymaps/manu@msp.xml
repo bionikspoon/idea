@@ -24,6 +24,7 @@
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="JumpToLastChange" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="ParameterInfo">
