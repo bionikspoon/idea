@@ -1,0 +1,43 @@
+<application>
+  <component name="FileTypeManager" version="15">
+    <ignoreFiles list="*$py.class;*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="package.json" type="JSON" />
+      <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
+      <mapping pattern="pubmed" type="PLAIN_TEXT" />
+      <mapping pattern="x_stor" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="berkeley" type="PLAIN_TEXT" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
+      <mapping pattern="django" type="PLAIN_TEXT" />
+      <mapping pattern="couchdbkit_test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="x_buck" type="PLAIN_TEXT" />
+      <mapping ext="redis" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="Ini" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="p" type="Web2Py" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".coveragerc" type="Ini" />
+      <mapping pattern=".editorconfig" type="Ini" />
+      <mapping pattern=".env" type="Ini" />
+      <mapping pattern=".env.*" type="Ini" />
+      <mapping pattern=".envrc" type="Bash" />
+      <mapping pattern=".git*" type="Git file" />
+      <mapping pattern=".gitattributes" type="Git file" />
+      <mapping pattern=".gitkeep" type="Git file" />
+    </extensionMap>
+  </component>
+</application>
