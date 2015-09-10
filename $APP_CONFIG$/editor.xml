@@ -1,9 +1,0 @@
-<application>
-  <component name="EditorSettings">
-    <option name="IS_CAMEL_WORDS" value="true" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="breadcrumbsEnabled" value="false" />
-    <option name="tagTreeHighlightingOpacity" value="20" />
-  </component>
-</application>
