@@ -7,11 +7,28 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="req" value="require('$path$')" description="Require()" toReformat="false" toShortenFQNames="true">
-    <variable name="path" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+  <template name="log.d" value="console.debug('$TEXT$', $VAR$);" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="VAR" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="f" value="function($PARAM$) {&#10;  $END$&#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="log.t" value="console.table($VAR$);" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="false" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
