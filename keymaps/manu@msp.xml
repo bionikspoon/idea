@@ -2,9 +2,16 @@
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Django.RunManageTaskAction">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -43,4 +50,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Vcs.Push" />
 </keymap>
