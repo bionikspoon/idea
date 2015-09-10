@@ -1,6 +1,6 @@
 <templateSet group="Javascript Custom">
-  <template name="imp" value="var $module$ = require('$module$');&#10;$END$" description="Require module" toReformat="false" toShortenFQNames="true">
-    <variable name="module" expression="jsSuggestIndexName()" defaultValue="" alwaysStopAt="true" />
+  <template name="if" value="if ($CONDITION$) {&#10;    $END$&#10;}" shortcut="SPACE" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CONDITION" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
@@ -9,14 +9,6 @@
   </template>
   <template name="req" value="require('$path$')" description="Require()" toReformat="false" toShortenFQNames="true">
     <variable name="path" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="if" value="if ($CONDITION$) {&#10;    $END$&#10;}" shortcut="SPACE" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="CONDITION" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
