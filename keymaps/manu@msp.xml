@@ -17,6 +17,14 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
@@ -27,11 +35,14 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="Replace" />
   <action id="RunToCursor" />
+  <action id="ShowContent" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
